@@ -33,6 +33,7 @@ export default function Home() {
           <ButtonContainer>
             <button onClick={onGetToken}>Get access token</button>
           </ButtonContainer>
+          <p>oi</p>
           <Footer />
         </>
       ) : (
