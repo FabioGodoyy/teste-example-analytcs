@@ -23,7 +23,7 @@ const DashBoard = () => {
             viewID={viewID}
           />
           <DayVisitsReport
-            metric={"ga:sessions"}
+            metric={"ga:page_view"}
             title={"Sessions"}
             viewID={viewID}
           />
